@@ -6,7 +6,7 @@ I am interested in human-centric embodied intelligence, multimodal AI, humanoid 
 
 ## Research
 
-- **[Human–Robot Interaction with Humanoid Robots](https://github.com/HaojinLu/human-robot-interaction)** — Developed and debugged whole-body interaction on Unitree G1; led HRI study design and analysis. Manuscript under review.
+- **[Human–Robot Interaction with Humanoid Robots](https://github.com/HaojinLu/human-robot-interaction)** — Developed and debugged whole-body interaction on Unitree G1; designed the HRI evaluation questionnaire and conducted statistical analysis. Manuscript under review.
 
 ## Robotics & Competition
 
