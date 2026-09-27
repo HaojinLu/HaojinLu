@@ -4,9 +4,12 @@ Undergraduate student in Artificial Intelligence @ Sun Yat-sen University
 
 I am interested in human-centric embodied intelligence, multimodal AI, humanoid robotics, and human–robot interaction. Vision-language-action models and world models are research interests; AI agents and AI systems are additional engineering strengths.
 
-## Research & Robotics
+## Research
 
 - **[Human–Robot Interaction with Humanoid Robots](https://github.com/HaojinLu/human-robot-interaction)** — Research contributor in whole-body humanoid interaction using Unitree G1, including motion deployment, system integration, real-robot testing, and HRI user evaluation. Manuscript under review.
+
+## Robotics & Competition
+
 - **[2026 World Humanoid Robot Games](https://github.com/HaojinLu/world-humanoid-robot-games-2026)** — Team Lead and Technical Integration, 超能逸仙队. Unitree G1; team-reported Top 16 in Street Dance and 11th in Tai Chi. Public overview; full code is not released.
 
 ## Selected Engineering Projects
