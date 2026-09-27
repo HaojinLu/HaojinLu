@@ -10,7 +10,7 @@ I am interested in human-centric embodied intelligence, multimodal AI, humanoid 
 
 ## Robotics & Competition
 
-- **[2026 World Humanoid Robot Games](https://github.com/HaojinLu/world-humanoid-robot-games-2026)** — Team Lead and Technical Integration, 超能逸仙队. Unitree G1; team-reported Top 16 in Street Dance and 11th in Tai Chi. Public overview; full code is not released.
+- **[2026 World Humanoid Robot Games](https://github.com/HaojinLu/world-humanoid-robot-games-2026)** — Team Lead and Technical Development, 超能逸仙队. Unitree G1; team-reported Top 16 in Street Dance and 11th in Tai Chi. Selected development-machine scripts are public; the full competition stack is not released.
 
 ## Selected Engineering Projects
 
