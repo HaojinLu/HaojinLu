@@ -1,19 +1,18 @@
 # Haojin Lu
 
-I'm an undergraduate student in Artificial Intelligence at Sun Yat-sen University. I build, reproduce, evaluate, and analyze intelligent systems.
+Undergraduate student in Artificial Intelligence @ Sun Yat-sen University
 
-My interests include **multimodal intelligence, multimodal agents, world models, vision-language-action models, embodied AI, robotics, and AI systems**. The projects below show my independent extension work and backend contributions to broader systems. Each repository describes what has been verified and what remains untested.
+I am interested in human-centric embodied intelligence, multimodal AI, humanoid robotics, and human–robot interaction. Vision-language-action models and world models are research interests; AI agents and AI systems are additional engineering strengths.
 
-## Selected work
+## Research & Robotics
 
-- **[arXiv Paper Agent](https://github.com/hhjj-11/arxiv_paper_agent)** — a Chromium extension for contextual paper reading, with selection-based tools, paper-level workflows, configurable model endpoints, and a selectable PDF text layer. [Scope and verification](https://github.com/hhjj-11/arxiv_paper_agent#readme).
-- **[Contract Review Agent](https://github.com/hhjj-11/contract-review-agent)** — a LangGraph-based prototype for converting and comparing procurement documents and draft contracts, with a FastAPI service and local web UI. [Setup and limitations](https://github.com/hhjj-11/contract-review-agent#readme).
-- **[RPG Travel Agent](https://github.com/hhjj-11/rpg-travel-agent)** — a location-aware travel game backend with context-aware quests, map POIs, progression rules, and a working local fallback demo. [Verification and limitations](https://github.com/hhjj-11/rpg-travel-agent#readme).
+- **Humanoid Interaction Research** — Research contributor in whole-body humanoid interaction using Unitree G1, including motion deployment, system integration, real-robot testing, and HRI user evaluation. Manuscript under review.
+- **2026 World Humanoid Robot Games** — Team Lead and Technical Integration, 超能逸仙队. Unitree G1; Top 16 in Street Dance and 11th in Tai Chi.
 
-**Contribution scope:** arXiv Paper Agent is my independent project. My contribution to Contract Review Agent and RPG Travel Agent was backend development.
+## Selected Engineering Projects
 
-## How I work
+- **[arxiv_paper_agent](https://github.com/HaojinLu/arxiv_paper_agent)** — independently developed LLM-assisted Chromium extension for academic paper reading. Its generated reading aids and plans require source verification.
+- **[rpg-travel-agent](https://github.com/HaojinLu/rpg-travel-agent)** — backend contribution to a location-aware urban exploration agent. Public tests cover local fallback behavior, not live maps, models, or mobile integration.
+- **[contract-review-agent](https://github.com/HaojinLu/contract-review-agent)** — backend contribution to a LangGraph and FastAPI document-comparison prototype. Outputs require human review; no legal accuracy claim is made.
 
-I am interested in the full path from a research question to a working system: understanding prior work, implementing methods, choosing baselines, checking failure cases, and documenting what the evidence does and does not show.
-
-Projects here may be original systems, reproductions, or extensions. Each repository should state its provenance, contribution, and verification status.
+[Personal website](https://haojinlu.github.io/) · [GitHub](https://github.com/HaojinLu)
