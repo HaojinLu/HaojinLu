@@ -6,11 +6,11 @@ I am interested in human-centric embodied intelligence, multimodal AI, humanoid 
 
 ## Research
 
-- **[Human–Robot Interaction with Humanoid Robots](https://github.com/HaojinLu/human-robot-interaction)** — Developed and debugged whole-body interaction on Unitree G1; designed the HRI evaluation questionnaire and conducted statistical analysis. Manuscript under review.
+- **[Human–Robot Interaction with Humanoid Robots](https://github.com/HaojinLu/human-robot-interaction)** — Integrated SONIC and BONES-SEED with Unitree G1; provided experimental data, designed the HRI evaluation questionnaire, conducted statistical analysis, and created manuscript figures. Manuscript under review.
 
 ## Robotics & Competition
 
-- **[2026 World Humanoid Robot Games](https://github.com/HaojinLu/world-humanoid-robot-games-2026)** — Team Lead and Technical Development, 超能逸仙队. Unitree G1; team-reported Top 16 in Street Dance and 11th in Tai Chi. Selected development-machine scripts are available.
+- **[2026 World Humanoid Robot Games](https://github.com/HaojinLu/world-humanoid-robot-games-2026)** — Team Lead and Technical Development, 超能逸仙队. Unitree G1; Top 16 in Street Dance and 11th in Tai Chi. Selected development-machine scripts are available.
 
 ## Selected Engineering Projects
 
